@@ -287,10 +287,7 @@ def check_coverage(String project_dir) {
 сохраняет файл в формате json с именем check_result.json
 
 ```json
-{
-"TESTED": "100",
-"UNTESTED": "0"
-}
+{"TESTED": "13.33%", "UNTESTED": "86.67%"}
 ```
 
 в результате может выглядеть так (требуются скрипты на стороне джиры)
