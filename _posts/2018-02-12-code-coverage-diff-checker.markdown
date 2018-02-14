@@ -265,20 +265,20 @@ python check_coverage.py --reportsdir .
 ```
 def check_coverage(String project_dir) {
   try {
-  dir("${WORKSPACE}/src/coverage_checker") {
-  git(branch: 'master', url: '<>')
+  	dir("${WORKSPACE}/src/coverage_checker") {
+  	  git(branch: 'master', url: '<>')
   }
   dir(project_dir) {
-  sh returnStatus: true, script: """cp ${WORKSPACE}/src/coverage_checker/check_coverage.py ${WORKSPACE}/${project_dir}/check_coverage.py
-  cd ${WORKSPACE}/${project_dir}/
-  git stash
-  git checkout master
-  git checkout ${Branch_name}
-  python check_coverage.py --reportsdir .
-  """
-  }
+  	sh returnStatus: true, script: """cp ${WORKSPACE}/src/coverage_checker/check_coverage.py ${WORKSPACE}/${project_dir}/check_coverage.py
+	  	cd ${WORKSPACE}/${project_dir}/
+	  	git stash
+	  	git checkout master
+	  	git checkout ${Branch_name}
+	  	python check_coverage.py --reportsdir .
+  	"""
+  	}
   } catch (exception) {
-  print(exception)
+  	print(exception)
   }
 }
 
@@ -288,8 +288,8 @@ def check_coverage(String project_dir) {
 
 ```json
 {
-"TESTED": "N/A",
-"UNTESTED": "N/A"
+"TESTED": "100",
+"UNTESTED": "0"
 }
 ```
 
