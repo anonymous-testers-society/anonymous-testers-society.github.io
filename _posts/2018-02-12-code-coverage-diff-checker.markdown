@@ -161,9 +161,7 @@ def collect_coverage_reports(reportdir):
         exit(1)
 
 
-def make_diff(changes, lines):
-    """ get diff filtered by rules
-    https://confluence.lzd.co/display/RUQA/Git+diff+unittest+coverage.+Rules+of+DIFF+creation """
+def make_diff(changes, lines):    
     with open("diff", "w") as out:
         call('git diff master --unified=0', shell=True, stdout=out)
     line_number = 0
