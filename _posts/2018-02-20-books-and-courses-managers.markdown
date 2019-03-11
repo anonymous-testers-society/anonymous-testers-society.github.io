@@ -7,7 +7,7 @@ categories: books
 
 <div align="center">
 
-	<a href="https://www.facebook.com/komixizm/photos/a.427580690643148.99459.427420713992479/1386718178062723/?type=3&theater" target="_blank"><img src="https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/17917430_1386718178062723_9083893019835838609_o.jpg?oh=e0f71bca74b10d7655afe26f261284f1&oe=5B1574DC" 
+	<a href="https://www.facebook.com/komixizm/photos/a.427580690643148.99459.427420713992479/1386718178062723/?type=3&theater" target="_blank"><img src="https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/17917430_1386718178062723_9083893019835838609_o.jpg?_nc_cat=100&_nc_ht=scontent-arn2-1.xx&oh=9057c59d04bd433a54a8f87142ed6a1b&oe=5D179DDC" 
 alt="Картинка для привлечения внимания" width="222" height="222" border="0" /></a> 
 </div>
 
