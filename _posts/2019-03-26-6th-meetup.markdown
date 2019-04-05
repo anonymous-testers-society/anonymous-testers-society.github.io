@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Шестая встреча общества анонимных тестировщиков"
+date: 2019-03-28 19:16:01 +0300
+categories: meetups
+---
+
+# Как это было
+28 марта прошла 6-я встреча сообщества. В этот раз нас было более 100 человек и 3 доклада.  
+
+
+## Доклады:
+
+Дима Краснов  рассказал про то, как можно сделать полезные отчеты по тестам на примере Pytest и Allure:
+
+<script async class="speakerdeck-embed" data-id="de83ffabaac242a09c8a927072115e39" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+Андрей Макеев  рассказывал про оркестрацию docker контейнеров в проектах gradle и использование apache airflow для построения pipeline:
+
+<script async class="speakerdeck-embed" data-id="07353191c11d4254a8e3bc97d1879317" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+Руслан Гусейнов рассказал как в Gett подходят к выбору REST-клиента при тестировании микросервисной архитектуры:
+<script async class="speakerdeck-embed" data-id="f62d5432e2d44efb9c82fd56e36ce88d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+К сожалению, наш четвертый докладчик заболел и не смог нам рассказать про тестирование качества поиска. Динар, выздоравливай! Мы очень ждем твое выступление на следующем митапе.
+
+## Фото
+<a href="https://yadi.sk/a/PbX0rCow_tIXtA"> <img src="https://yadi.sk/a/PbX0rCow_tIXtA/5ca750ee06e55afb11e973e7"/></a>
+
+
+## Запись
+будет чуть позже
+
+## Благодарности
+Спасибо Gett за отличную площадку и помощь в организации
