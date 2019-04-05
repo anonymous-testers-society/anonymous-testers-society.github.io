@@ -24,6 +24,7 @@ categories: meetups
 <br/>
 <br/>
 Руслан Гусейнов рассказал как в Gett подходят к выбору REST-клиента при тестировании микросервисной архитектуры:
+
 <script async class="speakerdeck-embed" data-id="f62d5432e2d44efb9c82fd56e36ce88d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 <br/>
