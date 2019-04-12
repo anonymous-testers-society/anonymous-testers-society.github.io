@@ -32,7 +32,9 @@ categories: meetups
 К сожалению, наш четвертый докладчик заболел и не смог нам рассказать про тестирование качества поиска. Динар, выздоравливай! Мы очень ждем твое выступление на следующем митапе.
 
 ## Фото
-<a href="https://yadi.sk/a/PbX0rCow_tIXtA"> <img src="https://1.downloader.disk.yandex.ru/preview/b2f2110f082cd16f5bcad1e1352b7d68137cdf322d9770588875bf388edb33cd/5ca78d8b/NtqU0odJP8YNvPT_PBnYjewT7or1fFb6hYuFy0UJBTnlGlcaZU-41_nKO0viS8Ub9S1uUlYPK-JIdU_l01CNdg%3D%3D?uid=0&filename=121A3628.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=320x150"/> <br/>ещё</a>
+<a href="https://yadi.sk/a/PbX0rCow_tIXtA">
+![Photo]({{ "/resources/images/6meetuppreview.jpg" }}) 
+ <br/>ещё</a>
 
 
 ## Запись
