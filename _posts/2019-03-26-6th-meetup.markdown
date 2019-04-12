@@ -36,7 +36,9 @@ categories: meetups
 
 
 ## Запись
-будет чуть позже
+К сожалению, полноценной записи не получилось. Но вспомнить, как оно было можно:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q03r-rDekn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Благодарности
 Спасибо Gett за отличную площадку и помощь в организации
