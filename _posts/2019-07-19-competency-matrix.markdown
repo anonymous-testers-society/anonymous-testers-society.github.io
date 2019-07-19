@@ -34,6 +34,8 @@ categories: tools, manager
 Можно ничего не делать, но если ты задашь вопросы внизу этой страницы - с большой вероятностью я, или кто-то более умный, на них ответит. И тогда эта статья станет лучше. :)
 
 
+
+
 ### Описание для сотрудников
 
 #### Зачем это нужно?
@@ -68,5 +70,5 @@ categories: tools, manager
 
 
 ну и просто пример матрицы для тестировщика (её, конечно, нужно адаптировать для себя) 
-<a target='_blank' href="{require(/resources/files/matrix-QA-engineer.pdf)}" type="application/pdf">Матрица(pdf)</a>	
+![Матрица(pdf)]({{"/resources/files/matrix-QA-engineer.pdf)"}})
 
