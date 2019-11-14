@@ -11,12 +11,12 @@ categories: meetups
 
 ## Доклады:
 Антон Нечеухин (Miro) рассказал про то, как в Miro прокачали Jmeter для работы с ws. Про  особенности использования кода внутри Jmeter, полезные  фишки про сбор метрик и как и зачем использовать параллельное выполнение нагрузочных тестов с е2е тестами.
-<script async class="speakerdeck-embed" data-id="e16227493eae4ce7ae8ef2427d0fd7ac" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<br/><script async class="speakerdeck-embed" data-id="e16227493eae4ce7ae8ef2427d0fd7ac" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 <br/>
 <br/>
 Виктор Балашов (Align Technology) рассказал про то, как внедрять нагрузочное тестирование в пайплайн, как уменьшить ручную работу по анализу
  и подготовке данных, а так же о том, как  применять машинное обучение для анализа результатов по части квантилей.
-<script async class="speakerdeck-embed" data-id="ae3fe5761ccd4c0899df2f9a77181fc4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<br/><script async class="speakerdeck-embed" data-id="ae3fe5761ccd4c0899df2f9a77181fc4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 <br/>
 <br/>
 Евгений Харченко (Авито) рассказал про то, зачем нужна карма тестам и как выжить с end-to-end тестами в нестабильном окружении.
